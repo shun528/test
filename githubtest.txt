@@ -1,3 +1,2 @@
-テストコード
+test1
 
-git for windowsをダウンロード
